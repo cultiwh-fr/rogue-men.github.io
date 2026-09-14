@@ -4,6 +4,10 @@
 
 ROGUE MEN is a professional men's grooming storefront with **36 demo products**.
 
+## V5 hero refresh
+- Replaced only the first-load homepage hero image with a cleaner studio composition
+- Kept the rest of the storefront unchanged
+
 ## V4 image rebuild
 - Fresh studio product photography
 - Square 1:1 product frames
