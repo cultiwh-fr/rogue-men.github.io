@@ -3,6 +3,6 @@
   "short_name": "ROGUE MEN",
   "start_url": "./index.html",
   "display": "standalone",
-  "theme_color": "#ec1821",
-  "background_color": "#07090b"
+  "theme_color": "#ed1a22",
+  "background_color": "#080a0c"
 }
