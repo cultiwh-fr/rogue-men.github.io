@@ -2,16 +2,19 @@
 
 **Own the moment.**
 
-ROGUE MEN is a professional men's grooming storefront with **36 demo products** across deodorant sprays, deodorant sticks, body sprays, body wash, grooming essentials, and gift sets.
+ROGUE MEN is a professional men's grooming storefront with **36 demo products**.
 
-## V3 image rebuild
-- Clean square product photography
-- Products centered with `object-fit: contain`
+## V4 image rebuild
+- Fresh studio product photography
+- Square 1:1 product frames
+- Centered product presentation
+- `object-fit: contain` for product cards
 - No webpage screenshots inside product images
-- Category and promotional imagery separated from ecommerce text
-- Compact square feature cards so imagery remains visible
-- Responsive layout
-- Support contact visible throughout the store
+- No prices, buttons, ratings, or navigation baked into product photography
+- Refreshed category and promotional imagery
+
+## Catalog
+Deodorant Sprays · Deodorant Sticks · Body Sprays · Body Wash · Grooming Essentials · Gift Sets
 
 ## Support
 support@rogue-men.com
@@ -23,5 +26,4 @@ The phone number is a demo/example contact and should be replaced before commerc
 ## GitHub Pages
 https://cultihw-fr.github.io/rogue-men/
 
-## Important
-Product names, prices, reviews, ingredients, directions, warnings, fragrance descriptions, performance claims, and policies may be demonstration content. Verify actual product information before commercial publication.
+Product information, ingredients, directions, warnings, fragrance descriptions, performance claims, pricing, shipping and return policies should be verified before commercial publication.
